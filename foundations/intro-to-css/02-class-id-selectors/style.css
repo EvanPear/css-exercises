@@ -1,0 +1,15 @@
+.odds {
+    background-color: hsl(351, 83%, 82%);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+#two {
+    color: blue;
+    font-size: 36px;
+}
+#four{
+    background-color: hsl(120, 96%, 78%);
+    font-weight: bold;
+}
+.unique {
+    font-size: 24px;
+}
