@@ -1,0 +1,12 @@
+.pink {
+    background-color: rgb(255, 187, 249);
+    color: black;
+}
+.purple {
+    background-color: rgb(95, 6, 95);
+    color: white;
+}
+.pink, .purple {
+    font-size: 28px;
+    font-family: Helvetica, "New Times Roman", sans-serif;
+}
